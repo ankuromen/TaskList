@@ -12,4 +12,7 @@ To Run this Application:
 6. After Successful download, in the Backend window's terminal execute *npm start*.
 7. After successfully starting Backend, execute *npm start* in Frontend.
 8. The Application will start Automatically in localhost:3000.
+
+   Or if you want an easy method just download the code form drive link: https://drive.google.com/drive/folders/1fUobT_jkojbs3tR4ldJUQzEQ3C-A66cA?usp=sharing
+   and just install the node_modules or required libraries and *npm start* first the backend then the frontend.
    
